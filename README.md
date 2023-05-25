@@ -7,4 +7,4 @@ I love cool useless stuff :))
 - Proud Neovim User
 
 I'm interested in Blockchain Technology, Smart-Contracts, and Zero-Knowledge. 
-If you like Cellular Autometa and zkSnarks be sure to read [https://medium.com/coinmonks/proof-of-life-zero-knowledge-proof-implementation-of-conways-game-of-life-with-circom-and-6438521fb2b1](this awesome article)
+If you like Cellular Autometa and zkSnarks be sure to read [this awesome article](https://medium.com/coinmonks/proof-of-life-zero-knowledge-proof-implementation-of-conways-game-of-life-with-circom-and-6438521fb2b1)
