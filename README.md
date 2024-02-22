@@ -3,8 +3,9 @@ I love cool useless stuff :))
 
 ### Currently working on:
 
-![Egotism Banner](https://imgur.com/a/hRBKFR7)
 [Egotism](https://www.egotism.me/)
+
+![Egotism Banner](https://i.imgur.com/N4xWyft.png)
 
 Egotism is essentially a decentralized vanity address market. You can read more in [About](https://www.egotism.me/about)
 
